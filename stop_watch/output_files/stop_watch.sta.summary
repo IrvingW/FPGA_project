@@ -1,0 +1,181 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.532
+TNS   : -534.726
+
+Type  : Slow 1100mV 85C Model Setup 'solve_shake:comb_9|out_reg'
+Slack : -3.375
+TNS   : -3.375
+
+Type  : Slow 1100mV 85C Model Setup 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -1.864
+TNS   : -45.769
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -2.509
+TNS   : -56.961
+
+Type  : Slow 1100mV 85C Model Hold 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.993
+TNS   : -14.323
+
+Type  : Slow 1100mV 85C Model Hold 'solve_shake:comb_9|out_reg'
+Slack : 0.275
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'solve_shake:comb_9|out_reg'
+Slack : -3.159
+TNS   : -3.159
+
+Type  : Slow 1100mV 85C Model Removal 'solve_shake:comb_9|out_reg'
+Slack : 2.890
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.422
+TNS   : -67.651
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.394
+TNS   : -26.464
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'solve_shake:comb_9|out_reg'
+Slack : -0.394
+TNS   : -0.526
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -4.805
+TNS   : -541.106
+
+Type  : Slow 1100mV 0C Model Setup 'solve_shake:comb_9|out_reg'
+Slack : -3.479
+TNS   : -3.479
+
+Type  : Slow 1100mV 0C Model Setup 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -1.751
+TNS   : -44.051
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -2.596
+TNS   : -59.464
+
+Type  : Slow 1100mV 0C Model Hold 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -1.090
+TNS   : -16.773
+
+Type  : Slow 1100mV 0C Model Hold 'solve_shake:comb_9|out_reg'
+Slack : 0.247
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'solve_shake:comb_9|out_reg'
+Slack : -3.263
+TNS   : -3.263
+
+Type  : Slow 1100mV 0C Model Removal 'solve_shake:comb_9|out_reg'
+Slack : 3.015
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.457
+TNS   : -73.336
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.394
+TNS   : -26.930
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'solve_shake:comb_9|out_reg'
+Slack : -0.394
+TNS   : -0.517
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -2.201
+TNS   : -240.576
+
+Type  : Fast 1100mV 85C Model Setup 'solve_shake:comb_9|out_reg'
+Slack : -1.599
+TNS   : -1.599
+
+Type  : Fast 1100mV 85C Model Setup 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.714
+TNS   : -14.111
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : -1.478
+TNS   : -34.342
+
+Type  : Fast 1100mV 85C Model Hold 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.501
+TNS   : -6.766
+
+Type  : Fast 1100mV 85C Model Hold 'solve_shake:comb_9|out_reg'
+Slack : 0.120
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'solve_shake:comb_9|out_reg'
+Slack : -1.448
+TNS   : -1.448
+
+Type  : Fast 1100mV 85C Model Removal 'solve_shake:comb_9|out_reg'
+Slack : 1.449
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.472
+TNS   : -11.568
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.092
+TNS   : -0.601
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'solve_shake:comb_9|out_reg'
+Slack : 0.121
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -2.095
+TNS   : -219.570
+
+Type  : Fast 1100mV 0C Model Setup 'solve_shake:comb_9|out_reg'
+Slack : -1.570
+TNS   : -1.570
+
+Type  : Fast 1100mV 0C Model Setup 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.586
+TNS   : -11.261
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : -1.501
+TNS   : -35.854
+
+Type  : Fast 1100mV 0C Model Hold 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.495
+TNS   : -6.986
+
+Type  : Fast 1100mV 0C Model Hold 'solve_shake:comb_9|out_reg'
+Slack : 0.095
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'solve_shake:comb_9|out_reg'
+Slack : -1.425
+TNS   : -1.425
+
+Type  : Fast 1100mV 0C Model Removal 'solve_shake:comb_9|out_reg'
+Slack : 1.437
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.481
+TNS   : -11.445
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'clock_50_to_10ms:clock_div|cnt[10]'
+Slack : -0.066
+TNS   : -0.328
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'solve_shake:comb_9|out_reg'
+Slack : 0.128
+TNS   : 0.000
+
+------------------------------------------------------------
